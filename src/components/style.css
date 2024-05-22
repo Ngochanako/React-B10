@@ -1,0 +1,16 @@
+.form{
+    display: flex;
+    gap:20px;
+    margin-top: 50px;
+}
+.nav{
+    display: flex;
+    gap:40px;
+    margin: 20px 0px;
+}
+button{
+    background-color: olive;
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 5px;
+}
